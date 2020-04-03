@@ -1,0 +1,119 @@
+body {
+	background-color: #f9f9fa;
+}
+.navbar {
+
+}
+.navbar-light {
+}
+.bg-light {
+	background-color: #fff!important;
+	height: 80px;
+}
+.no-gutters {
+	margin-right: 0;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;	
+}
+.navbar-light .navbar-brand {
+	color: #6001D2;
+    padding-left: 50px;
+    font-size: 39px;
+}
+.navbar-light .navbar-brand:hover {
+	color: #6001D2;
+    padding-left: 50px;
+    font-size: 39px;
+}
+.main-content {
+	
+}
+.container {
+	padding-top: 15px;
+}
+.container p {
+	font-family: 'IM Fell French Canon SC', serif;
+	font-size: 25px;
+	text-align: justify;
+}
+.login-box {
+	box-sizing: border-box;
+	box-shadow: 0 2px 4px 0 rgba(181,181,181,.7);
+	background-color: #ffffff;
+}
+.login-logo {
+	margin: 0;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 28px;
+    color: #6001D2;
+}
+.login-header {
+	text-align: center;
+    padding-top: 2rem;
+}
+.heading {
+	font-size: 20px;
+}
+.sign-in {
+	padding-top: 60px;
+}
+.form-group input {
+	height: 35px;
+    width: 320px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+.btn-next {
+    margin-top: 30px;
+    width: 320px;
+    height: 45px;
+    border-radius: 25px;
+}
+.btn-success {
+	display: table;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #188fff;
+    border: 1px solid #188fff;
+    font-size: 21px;
+    font-weight: 700;
+}
+.btn-success:hover {
+	display: table;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0f69ff;
+    border: 1px solid #0f69ff;
+    font-weight: 700;
+}
+.forgot {
+	display: table;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 22px;
+}
+.sign-up {
+	padding-top: 95px;
+	padding-bottom: 20px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-done {
+	width: 320px;
+    height: 45px;
+    border-radius: 25px;
+    background-color: #FFFFFF;
+    border: 1px solid #188fff;
+}
+.btn-done:hover {
+	width: 320px;
+    height: 45px;
+    border-radius: 25px;
+    background-color: #FFFFFF;
+    border: 1px solid #188fff;
+}
